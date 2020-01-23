@@ -1,0 +1,12 @@
+name: intrigue
+version: 3.0.0-SNAPSHOT
+title: Intrigue Documentation
+start_page: using:using-intrigue-intro.adoc
+nav:
+- modules/ROOT/nav.adoc
+- modules/quick-start/nav.adoc
+- modules/using/nav.adoc
+- modules/configuring/nav.adoc
+- modules/data-management/nav.adoc
+- modules/reference/nav.adoc
+
