@@ -5,7 +5,7 @@
 :summary: Using search forms in {catalog-ui}
 :order: 05
 
-== {title}
+= Using Search Forms
 
 ((*Search Forms*)) are customizable templates of the attributes used in creating searches.
 Search forms are reusable, for when certain search types are created repeatedly.

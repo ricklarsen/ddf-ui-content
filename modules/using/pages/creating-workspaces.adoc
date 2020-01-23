@@ -5,7 +5,7 @@
 :summary: Creating workspaces
 :order: 00
 
-== {title}
+= Creating a Workspace
 
 .Start new workspace
 . From the *Workspaces* view, enter search terms into the *Start new workspace* search field and click the magnifying glass (image:magnifying-glass.png[magnifying glass icon]) icon.

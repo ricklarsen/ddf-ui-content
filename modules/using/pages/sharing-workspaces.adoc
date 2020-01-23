@@ -5,7 +5,7 @@
 :summary: Sharing workspaces
 :order: 02
 
-== {title}
+= Sharing Workspaces
 
 Workspaces can be shared between users at different levels of access as needed.
 

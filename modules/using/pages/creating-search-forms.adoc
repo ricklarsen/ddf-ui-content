@@ -5,7 +5,7 @@
 :summary: Creating Search Forms
 :order: 00
 
-== {title}
+= Creating Search Forms
 
 The *Search Form Editor* is found on the *Navigation Menu*.
 

@@ -3,7 +3,7 @@
 :status: published
 :summary: Introduction to using Intrigue.
 
-== {title}
+= Using {catalog-ui}
 
 {catalog-ui} represents the most advanced search interface available with {branding}.
 It provides metadata search and discovery, resource retrieval, and workspace management with a 3D or optional 2D map visualization.

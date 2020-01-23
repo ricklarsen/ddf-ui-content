@@ -5,7 +5,7 @@
 :summary: Sharing result forms
 :order: 01
 
-== {title}
+= Sharing Result Forms
 
 Result forms are shareable between users, groups, and user roles.
 

@@ -1,4 +1,13 @@
 
 .Reference
 * xref:map-standards.adoc[Map Formats Supported]
-* xref:catalog.ui.adoc[Configuration Reference]
+* Configuration Reference
+** xref:catalog.ui.adoc[Catalog UI Search]
+** xref:catalog.ui.attribute.aliases.adoc[Catalog UI Search Attribute Aliases]
+** xref:catalog.ui.attribute.descriptions.adoc[Catalog UI Search Attribute Descriptions]
+** xref:catalog.ui.attribute.hidden.adoc[Catalog UI Search Hidden Attributes]
+** xref:catalog.ui.attribute.suggestionList.adoc[Attribute Suggestion List]
+** xref:catalog.ui.theme.adoc[Catalog UI Search Theme]
+** xref:catalog.ui.whitelist.adoc[Catalog UI Search Metacard Type Whitelist]
+]
+

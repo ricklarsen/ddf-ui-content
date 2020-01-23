@@ -5,7 +5,7 @@
 :summary: Find a location
 :order: 00
 
-== {title}
+= Pan to a Location
 
 Use the *Map Tools Widget* "Pan to Region" box
 to search for a geographic location and move the map to that location.

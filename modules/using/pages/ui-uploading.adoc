@@ -5,7 +5,7 @@
 :summary: Uploading from {catalog-ui}
 :order: 03
 
-== {title}
+= Uploading
 
 Data can be ingested via {catalog-ui}.
 

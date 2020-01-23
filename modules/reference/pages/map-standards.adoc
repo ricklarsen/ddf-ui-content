@@ -9,8 +9,14 @@
 
 {catalog-ui} includes capabilities to support custom map layer providers as well as support for several popular map layer providers.
 
-Some provider types are currently only supported by the https://openlayers.org[2D OpenLayers] {external-link} map and some only by the https://cesiumjs.org[3D Cesium] {external-link} map.
+Some provider types are currently only supported by the
+ifdef::internet[https://openlayers.org[2D OpenLayers] {external-link}]
+ifndef::internet[2D OpenLayers]
+map and some only by the
+ifdef::internet[https://cesiumjs.org[3D Cesium] {external-link} map.]
+ifndef::internet[3D Cesium map.]
 
+ifdef::internet[]
 .Map Formats Included in {ddf-branding}
 [cols="1,1,1" options="header"]
 |===
@@ -52,4 +58,16 @@ Some provider types are currently only supported by the https://openlayers.org[2
 |https://cesiumjs.org/releases/{cesium.version}/Build/Documentation/GoogleEarthImageryProvider.html[Cesium] {external-link}
 
 |===
+endif::[]
 
+ifndef::internet[]
+.Map Formats Included in {ddf-branding}
+* Open Street Map
+* Web Map Service
+* Web Map Tile Service
+* ArcGIS Map Server
+* Single Tile
+* Bing Maps
+* Tile Map Service
+* Google Earth
+endif::[]

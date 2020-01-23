@@ -5,7 +5,7 @@
 :summary: Using the Map Tools widget
 :order: 07
 
-== {title}
+= Map Tools
 
 Further customize the map view with the ((Map Tools Widget)).
 

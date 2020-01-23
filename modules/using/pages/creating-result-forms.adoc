@@ -5,7 +5,7 @@
 :summary: Creating Result Forms
 :order: 00
 
-== {title}
+= Creating Result Forms
 
 The *Result Form Editor* is found on the *Navigation Menu*.
 

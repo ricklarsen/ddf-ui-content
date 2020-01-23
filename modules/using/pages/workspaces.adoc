@@ -5,7 +5,7 @@
 :summary: Using workspaces within {catalog-ui}
 :order: 02
 
-== {title}
+= Using Workspaces
 
 Within {catalog-ui}, ((Workspaces)) are collections of settings, searches, and lists that can be shared between users and stored for repeated access.
 

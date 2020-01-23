@@ -5,7 +5,7 @@
 :summary: Creating workspaces
 :order: 01
 
-== {title}
+= Configuring a Workspace
 
 Configure each workspace with searches and share options.
 

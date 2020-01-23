@@ -5,7 +5,7 @@
 :summary: Creating Searches
 :order: 01
 
-== {title}
+= Sharing Search Forms
 
 Search forms are shareable between users, groups, and user roles.
 

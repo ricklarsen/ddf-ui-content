@@ -5,7 +5,7 @@
 :summary: Uploading from {catalog-ui}
 :order: 08
 
-== {title}
+= Notifications
 
 Notifications can be checked/dismissed by clicking the *Notifications* icon (image:notifications-icon.png[]) on the navigation bar.
 

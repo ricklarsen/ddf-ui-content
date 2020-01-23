@@ -5,7 +5,7 @@
 :summary: Creating Searches
 :order: 00
 
-== {title}
+= Creating a Search
 
 Search queries are grouped together into <<{using-prefix}using_workspaces,Workspaces>>.
 These searches can be saved, edited, and duplicated as the basis of further searches.

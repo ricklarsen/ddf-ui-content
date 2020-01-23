@@ -5,7 +5,7 @@
 :summary: Configuring User preferences and settings
 :order: 09
 
-== {title}
+= Customizing Options
 
 Customize the look and feel of {catalog-ui} using the *Settings* (image:gear-icon.png[settings]) menu on the navigation bar.
 

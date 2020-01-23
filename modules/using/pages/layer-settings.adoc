@@ -5,7 +5,7 @@
 :summary: Reorder and refine map layers
 :order: 03
 
-== {title}
+= Map Layer Settings
 
 Customize the opacity and ordering of map layers.
 

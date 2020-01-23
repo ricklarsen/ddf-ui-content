@@ -5,7 +5,7 @@
 :summary: Enabling low bandwidth mode
 :order: 00
 
-== {title}
+= {catalog-ui} Low Bandwidth Mode
 
 Low bandwidth mode can be enabled by passing in a `?lowBandwidth` parameter along with any URL targeting the {catalog-ui} endpoint.
 Ex: `{secure_url}/search/catalog/?lowBandwidth#workspaces`.

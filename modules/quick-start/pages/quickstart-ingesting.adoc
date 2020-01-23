@@ -11,7 +11,7 @@
 
 Now that {branding} has been configured, ingest some sample data to demonstrate search capabilities.
 
-This is one way to ingest into the catalog, for a complete list of the different methods, see <<{managing-prefix}ingesting_data,Ingesting Data>>.
+This is one way to ingest into the catalog, for a complete list of the different methods, see xref:ui-ingest.adoc[Ingesting Data].
 
 == Ingesting Sample Data
 

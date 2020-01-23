@@ -5,7 +5,7 @@
 :summary: Set coordinate format
 :order: 04
 
-== {title}
+= Set Coordinate Format
 
 Set the format for displaying coordinates from the *Map Layers Widget*.
 

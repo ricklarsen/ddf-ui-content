@@ -5,7 +5,7 @@
 :summary: Viewing an editing searches
 :order: 01
 
-== {title}
+= Editing Searches
 
 View and edit searches from the *Search* tab.
 

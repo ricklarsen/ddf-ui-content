@@ -5,7 +5,7 @@
 :summary: Using result forms in {catalog-ui}
 :order: 06
 
-== {title}
+= Using Result Forms
 
 ((*Result Forms*)) are customizable templates of the attributes shown when viewing searches.
 Result forms are reusable, for when certain search types are created repeatedly.

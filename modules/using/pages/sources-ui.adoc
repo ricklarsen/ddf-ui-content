@@ -5,7 +5,7 @@
 :summary: Uploading from {catalog-ui}
 :order: 04
 
-== {title}
+= Sources View
 
 (((Sources View)))
 {branding} can be configured to search multiple data sources simultaneously,

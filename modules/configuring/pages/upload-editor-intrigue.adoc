@@ -5,7 +5,7 @@
 :order: 021
 :summary: Configuring user ability to edit metadata of uploads in {catalog-ui}.
 
-== {title}
+= Configuring the {catalog-ui} Upload Editor
 
 The upload editor in {catalog-ui} allows users to specify attribute overrides which should be
 applied on ingest. Administrators control the list of attributes that users may edit and can

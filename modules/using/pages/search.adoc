@@ -5,7 +5,7 @@
 :summary: Searching from {catalog-ui}.
 :order: 01
 
-== {title}
+= Searching {catalog-ui}
 
 The Search pane has two tabs: *Search* and *Lists*.
 

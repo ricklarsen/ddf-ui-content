@@ -5,7 +5,7 @@
 :summary: Set a home location for the UI.
 :order: 01
 
-== {title}
+= Set a home location
 
 Customize the default location the map loads by setting a home location.
 

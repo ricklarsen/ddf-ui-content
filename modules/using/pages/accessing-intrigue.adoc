@@ -5,7 +5,7 @@
 :summary: Accessing {catalog-ui}.
 :order: 00
 
-== {title}
+= Accessing {catalog-ui}
 
 The default URL for {catalog-ui} is {secure_url}/search/catalog
 
@@ -21,9 +21,9 @@ and will not be available for sharing.
 For other views, select the *Navigation* menu image:navigator-icon.png[navigator icon] in the upper-left corner of {catalog-ui} and select the desired view.
 
 .Navigation Menu
-. <<{using-prefix}using_workspaces,Workspaces>>
-. <<{using-prefix}uploading,Upload>>
-. <<{using-prefix}sources_view,Sources>>
-. <<{using-prefix}using_search_forms,Search Forms>>
-. <<{using-prefix}using_result_forms,Result Forms>>
+. xref:workspaces.adoc[Workspaces]
+. xref:ui-uploading.adoc[Upload]
+. xref:sources-ui.adoc[Sources]
+. xref:result-forms.adoc[Search Forms]
+. xref:search-forms.adoc[Result Forms]
 

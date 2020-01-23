@@ -5,7 +5,7 @@
 :summary: Using Lists
 :order: 04
 
-== {title}
+= Using Lists
 
 ((Lists)) organize results and enable performing actions on those sets of results.
 The *Lists* tab can be found on the *Search* pane.
@@ -23,11 +23,11 @@ Select the dropdown to see other lists available.
 Lists are not available to guest users.
 ====
 
-=== Creating a List
+== Creating a List
 
 A new list can be created by selecting the *Lists* tab and selecting the *new list* text.
 
-=== Adding/Removing Results to a List
+== Adding/Removing Results to a List
 
 Results can be added to a list by selecting the add (*&#43;*) icon on a result.
 

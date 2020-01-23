@@ -5,7 +5,7 @@
 :summary: Using Lists
 :order: 03
 
-== {title}
+= Hiding Results
 
 Redundant, irrelevant, or previously reviewed search results can be hidden from future searches.
 
@@ -15,7 +15,7 @@ Redundant, irrelevant, or previously reviewed search results can be hidden from 
 . Select *Hide from Future Searches*.
 . When you re-run the search, the selected result will not be in the result set.
 
-=== Viewing and Restoring Hidden Results
+== Viewing and Restoring Hidden Results
 
 . Select the *Settings* (&#9881;) menu.
 . Select *Hidden*.
