@@ -9,4 +9,5 @@ nav:
 - modules/configuring/nav.adoc
 - modules/data-management/nav.adoc
 - modules/reference/nav.adoc
+- modules/release-notes/nav.adoc
 

@@ -22,7 +22,7 @@ At the bottom of each search is a list of options for the search.
 * *Settings* &#9881;: Edit the search settings, such as sorting.
 ** *Sort*: Set the sorting criteria for this search.
 ** *Sources*: Limit the sources queried by this search.
-** *Result Form*: Choose a format for search results. See <<{using-prefix}using_result_forms,Result Forms>>
+** *Result Form*: Choose a format for search results. See xref:result-forms.adoc[Result Forms].
 * *Notifications* &#128277;: Allows setting up search notifications.
 * Additional Options
 ** *Stop*: Stop this search.

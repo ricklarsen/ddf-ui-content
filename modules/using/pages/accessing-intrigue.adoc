@@ -20,10 +20,10 @@ and will not be available for sharing.
 {catalog-ui} defaults to the Search view.
 For other views, select the *Navigation* menu image:navigator-icon.png[navigator icon] in the upper-left corner of {catalog-ui} and select the desired view.
 
-.Navigation Menu
-. xref:workspaces.adoc[Workspaces]
-. xref:ui-uploading.adoc[Upload]
-. xref:sources-ui.adoc[Sources]
-. xref:result-forms.adoc[Search Forms]
-. xref:search-forms.adoc[Result Forms]
+.Navigation Menu*
+* xref:workspaces.adoc[Workspaces]
+* xref:ui-uploading.adoc[Upload]
+* xref:sources-ui.adoc[Sources]
+* xref:result-forms.adoc[Search Forms]
+* xref:search-forms.adoc[Result Forms]
 

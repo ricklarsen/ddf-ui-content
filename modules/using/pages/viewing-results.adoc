@@ -27,7 +27,7 @@ image::search-results-options.png[search results options]
 .Options for each individual search result
 * *Download*: Downloads the result's associated resource directly to the local machine. This option is only available for results that have resources.
 * *Add to List* &#43;: Adds/removes the results to/from a list.
-* [[_hiding_a_result]]*Hide from Future Searches*: Adds to a list of results that will be hidden from future searches.
+* [[hiding_a_result]]*Hide from Future Searches*: Adds to a list of results that will be hidden from future searches.
 * *Expand Metacard View*: Navigates to a view that only focuses on this particular result.
 * *Export As*: Export the metadata, associated resource, or both.
 
@@ -41,19 +41,19 @@ image::search-results-options.png[search results options]
 .. *3D Map*: A 3 dimensional map view.
 .. *Histogram*: A configurable histogram view for the results of a search.
 .. *Table*: A configurable table view for the results of a search.
-.. ((*Inspector*)): [[_inspector]]In depth details and actions for the results of a search.
+.. ((*Inspector*)): [[inspector]]In depth details and actions for the results of a search.
 
 .Inspector View Available Options
 * *Summary*: A customizable subset of the attributes of the result.
 ** *Filter*: Search for specific attributes.
 ** *Actions*: *Add*, *Remove*, *Show*, or *Rearrange* the visible attributes for this result.
 * *Details*: A detailed view of all attributes available for the result.
-* <<_viewing_revision_history,History>>: View revision history of this record.
-* <<_editing_associations_on_a_record,Associations>>: View or edit the relationship(s) between this record and others in the catalog.
-* <<_viewing_metadata_quality,Quality>>: View the completeness and accuracy of the metadata for this record.
-* <<_exporting_a_result,Actions>>: Export the metadata/resource to a specific format.
-* <<_archiving_a_result,Archive>>: Remove the selected result from standard search results.
-* <<_overwriting_a_resource,Overwrite>>: Overwrite a resource.
+* xref:#_viewing_revision_history[History]: View revision history of this record.
+* xref:#_editing_associations_on_a_record[Associations]: View or edit the relationship(s) between this record and others in the catalog.
+* xref:#_viewing_metadata_quality[Quality]: View the completeness and accuracy of the metadata for this record.
+* xref:#_exporting_a_result[Actions]: Export the metadata/resource to a specific format.
+* xref:#_archiving_a_result[Archive]: Remove the selected result from standard search results.
+* xref:#_overwriting_a_resource[Overwrite]: Overwrite a resource.
 
 === Editing Records
 
@@ -67,7 +67,7 @@ Getting a preview using the metadata can be enabled through *{admin-console} -> 
 
 === Editing Associations on a Record
 
-Update relationships between records through [[_associations]]((*Associations*)).
+Update relationships between records through [[associations]]((*Associations*)).
 
 . Select the desired result from the *Search* tab.
 . Select the *Inspector* visual.
@@ -151,7 +151,7 @@ Restore hidden results to the active search results.
 
 image::unhide-blacklist.png[unhide blacklist]
 
-See <<{using-prefix}hiding_a_result,Hiding a result>>.
+See xref:hiding-results.adoc[Hiding a result].
 
 === Overwriting a Resource
 

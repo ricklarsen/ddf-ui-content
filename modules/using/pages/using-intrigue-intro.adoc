@@ -17,21 +17,21 @@ To exit this mode, click the `?` again or press `escape`.
 
 .Glossary of Terms
 ====
-<<{using-prefix}advanced_query_builder,((Advanced Query Builder))>>:: Search tool for building complex queries beyond basic searches.
-<<{using-prefix}associations,((Associations))>>:: User-defined relationships between different data resources.
-<<{using-prefix}using_the_attribute_editor,((Attribute Editor))>>:: Tool used to edit metadata attributes on uploads.
-<<{using-prefix}basic_search,((Basic Search Tool))>>:: Search tool for building simple searches.
-<<{using-prefix}inspector,((Inspector))>>:: Tool for viewing and editing metadata attributes.
-<<{using-prefix}using_lists,((Lists))>>:: User-defined collections of related results or products.
-<<{using-prefix}map_tools,((Map Tools Widget))>>:: Tool for customizing or navigating the map view.
-<<{using-prefix}viewing_metadata_quality,((Metadata Quality))>>:: A measure of the completeness or correctness of the metadata of a resource.
-<<{using-prefix}using_result_forms,((Result Forms))>>:: Customizable templates of the attributes shown when viewing searches.
-<<{using-prefix}using_search_forms,((Search Forms))>>:: Customizable templates of the attributes used in creating searches.
-<<{using-prefix}sources_view,((Sources View))>>:: View the health and status of all configured data sources
-<<{using-prefix}temporal_search_details,((Temporal Search))>>:: Basic search using time-based search terms.
-<<{using-prefix}spatial_search_details,((Spatial Search))>>:: Basic search using location-based search terms.
-<<{using-prefix}text_search_details,((Text Search))>>:: Basic search using the text of documents and/or metadata.
-<<{using-prefix}adding_visuals,((Visuals))>>:: Tools to view search results or the information about them.
-<<{using-prefix}using_workspaces,((Workspaces))>>:: User-defined collections of searches and search settings.
+xref:create-a-search.adoc#advanced_query_builder[((Advanced Query Builder))]:: Search tool for building complex queries beyond basic searches.
+xref:viewing-results.adoc#associations[((Associations))]:: User-defined relationships between different data resources.
+xref:attribute-editor.adoc[((Attribute Editor))]:: Tool used to edit metadata attributes on uploads.
+xref:create-a-search.adoc#basic_search[((Basic Search Tool))]:: Search tool for building simple searches.
+xref:viewing-results.adoc#inspector[((Inspector))]:: Tool for viewing and editing metadata attributes.
+xref:lists.adoc[((Lists))]:: User-defined collections of related results or products.
+xref:map-tools.adoc[((Map Tools Widget))]:: Tool for customizing or navigating the map view.
+xref:viewing-results.adoc#_viewing_metadata_quality[((Metadata Quality))]:: A measure of the completeness or correctness of the metadata of a resource.
+xref:result-forms.adoc[((Result Forms))]:: Customizable templates of the attributes shown when viewing searches.
+xref:search-forms.adoc[((Search Forms))]:: Customizable templates of the attributes used in creating searches.
+xref:sources-ui.adoc[((Sources View))]:: View the health and status of all configured data sources
+xref:create-a-search.adoc#temporal_search_details[((Temporal Search))]:: Basic search using time-based search terms.
+xref:create-a-search.adoc#spatial_search_details[((Spatial Search))]:: Basic search using location-based search terms.
+xref:create-a-search.adoc#text_search_details[((Text Search))]:: Basic search using the text of documents and/or metadata.
+xref:viewing-results.adoc#_adding_visuals[((Visuals))]:: Tools to view search results or the information about them.
+xref:workspaces.adoc[((Workspaces))]:: User-defined collections of searches and search settings.
 ====
 

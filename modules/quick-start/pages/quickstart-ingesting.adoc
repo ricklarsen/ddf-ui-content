@@ -9,9 +9,9 @@
 
 = Ingesting (Quick Start)
 
-Now that {branding} has been configured, ingest some sample data to demonstrate search capabilities.
+Now that {branding} has been configured, ingest some sample data to demonstrate search capabilities.2222
 
-This is one way to ingest into the catalog, for a complete list of the different methods, see xref:ui-ingest.adoc[Ingesting Data].
+This is one way to ingest into the catalog, for a complete list of the different methods, see xref:using:ui-uploading.adoc[Ingesting Data].
 
 == Ingesting Sample Data
 

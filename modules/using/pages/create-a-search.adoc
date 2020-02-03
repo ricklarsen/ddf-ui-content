@@ -7,13 +7,13 @@
 
 = Creating a Search
 
-Search queries are grouped together into <<{using-prefix}using_workspaces,Workspaces>>.
+Search queries are grouped together into xref:workspaces.adoc[Workspaces].
 These searches can be saved, edited, and duplicated as the basis of further searches.
 
 .Creating a New Search Within the Current Workspace
 . From the main {catalog-ui} screen, select *Search {catalog-ui}*.
 .. From the dialog that opens, select the *edit* icon to name the search if it will be reused or shared.
-.. Select the <<{using-prefix}search_types,type>> of search to perform: *Text*, *Basic*, or *Advanced*.
+.. Select the xref:#search_types[type] of search to perform: *Text*, *Basic*, or *Advanced*.
 . Results will be displayed in the *Search Tab*.
 . If too many or too few results are returned, edit the search parameters by selecting the *edit* icon.
 . Once the search is correct, select the *Save* icon next to the workspace name in the top bar.
@@ -26,12 +26,12 @@ These searches can be saved, edited, and duplicated as the basis of further sear
 . Rename the workspace, if desired.
 . Select the *Save* icon next to the workspace name.
 
-.Search Types[[_search_types]]
+.Search Types[[search_types]]
 [no-bullet]
-* *Text*: Perform a minimal textual search that is treated identically to a Basic search with only <<_text_search_details,Text>> specified.
-* *Basic*: [[_basic_search]](((Basic Search Tool)))Define a <<_text_search_details,Text>>, <<_temporal_search_details,Temporal>>, <<_spatial_search_details,Spatial>>, or <<_type_search_details,Type>> Search.
+* *Text*: Perform a minimal textual search that is treated identically to a Basic search with only xref:#text_search_details[Text] specified.
+* *Basic*: [[basic_search]](((Basic Search Tool)))Define a xref:#text_search_details[Text], xref:#temporal_search_details[Temporal], xref:#spatial_search_details[Spatial], or xref:#type_search_details[Type] Search.
 [no-bullet]
-** [[_text_search_details]]((*Text Search)) Details*: Searches across all textual data of the targeted data source. Text search capabilities include:
+** [[text_search_details]]((*Text Search)) Details*: Searches across all textual data of the targeted data source. Text search capabilities include:
 [no-bullet]
 *** Search for an exact word, such as `Text = apple` : Returns items containing the word "apple" but not "apples". Matching occurs on word boundaries.
 *** Search for the existence of items containing multiple words, such as `Text = apple orange` : Returns items containing both "apple" and "orange" words. Words can occur anywhere in an item's metadata.
@@ -41,7 +41,7 @@ These searches can be saved, edited, and duplicated as the basis of further sear
 When searching with wildcards, do not include the punctuation at the beginning or the end of a word. For example, search for `Text = ca*` instead of `Text = -ca*` when searching for words like "cat", "-cat", etc..  and search for `Text = *og` instead of `Text = *og.` when searching for words like "dog", "dog.", etc..
 *** Text searches are by default case insensitive, but case sensitive searches are an option.
 +
-** [[_temporal_search_details]]((*Temporal Search)) Details*: Search based on absolute time of the created, modified, or effective date.
+** [[temporal_search_details]]((*Temporal Search)) Details*: Search based on absolute time of the created, modified, or effective date.
 [no-bullet]
 *** *Any*: Search without any time restrictions (default).
 *** *After*: Search records after a specified time.
@@ -49,7 +49,7 @@ When searching with wildcards, do not include the punctuation at the beginning o
 *** *Between*: Set a beginning and end time to search between.
 *** *Relative*: Search records relative to the current time.
 +
-** [[_spatial_search_details]]((*Spatial Search)) Details*
+** [[spatial_search_details]]((*Spatial Search)) Details*
 [no-bullet]
 *** Search by latitude/longitude (decimal degrees or degrees minutes seconds), USNG/MGRS, or UTM
 *** Search by entering a *Keyword* for a region, country, or city in the *Location* section of the query builder.
@@ -64,27 +64,27 @@ If a self intersecting polygon is used to perform a geographic search, the polyg
 image::convex-hull-transform-example.png[]
 ====
 +
-** [[_type_search_details]]*Type Search Details*
+** [[type_search_details]]*Type Search Details*
 [no-bullet]
 *** Search for specific content types.
 +
 * *Advanced*: ((Advanced Query Builder)) can be used to create more specific searches than can be done through the other methods.
 [no-bullet]
-** [[_advanced_query_builder]]*Advanced Query Builder Details*
+** [[advanced_query_builder]]*Advanced Query Builder Details*
 [no-bullet]
 *** *Operator*: If 'AND' is used, all the filters in the branch have to be true for this branch to be true. If 'OR' is used, only one of the filters in this branch has to be true for this branch to be true.
 *** *Property*: Property to compare against.
-*** *Comparison*: How to compare the value for this property against the provided value. Depending on the type of property selected, various comparison values will be available. See <<_advanced_query_builder_comparators,Types of Comparators>>
+*** *Comparison*: How to compare the value for this property against the provided value. Depending on the type of property selected, various comparison values will be available. See xref:#_advanced_query_builder_comparators[Types of Comparator].
 *** *Search Terms*: The value for the property to use during comparison.
 *** *Sorting*: Sort results by relevance, distance, created time, modified time or effective time.
 *** *Sources*: Perform an enterprise search (the local {ddf-catalog} and all federated sources) or search specific sources.
 +
-** [[_advanced_query_builder_comparators]]*Advanced Query Builder Comparators*
+** [[advanced_query_builder_comparators]]*Advanced Query Builder Comparators*
 [no-bullet]
 *** *Textual*:
 [no-bullet]
-**** *CONTAINS*: Equivalent to <<_text_search_details,Basic Text Search>> with Matchcase set to No.
-**** *MATCHCASE*: Equivalent to <<_text_search_details,Basic Text Search>> with Matchcase set to Yes.
+**** *CONTAINS*: Equivalent to xref:#text_search_details[Basic Text Search] with Matchcase set to No.
+**** *MATCHCASE*: Equivalent to xref:#text_search_details[Basic Text Search] with Matchcase set to Yes.
 **** *`=`*: Matches if an attribute is precisely equal to that search term.
 **** *NEAR*: Performs a fuzzy proximity-based textual search. A NEAR query of `"car street" within 3` will match a sample text of `the blue car drove down the street with the red building` because performing three word deletions in that phrase (`drove`, `down`, `the`) causes `car` and `street` to become adjacent.
 **** *EMPTY*: Search records when the attribute itself does not exist or when the attribute value is null.
@@ -104,7 +104,7 @@ If multiple terms are used in the phrase, then the `within` amount specifies the
 +
 *** *Spatial*:
 [no-bullet]
-**** *INTERSECTS*: Gives a component with the same functionality as <<_spatial_search_details,Basic Spatial Search>>.
+**** *INTERSECTS*: Gives a component with the same functionality as xref:#spatial_search_details[Basic Spatial Search].
 **** *EMPTY*: Search records when the attribute itself does not exist or when the attribute value is null.
 +
 *** *Numeric*:
