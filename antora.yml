@@ -1,5 +1,5 @@
 name: intrigue
-version: 3.0.1-SNAPSHOT
+version: '3.0.0'
 title: Intrigue Documentation
 start_page: using:using-intrigue-intro.adoc
 nav:
