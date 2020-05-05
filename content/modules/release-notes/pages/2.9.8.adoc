@@ -1,9 +1,12 @@
 = Release Notes
-version 3.0.0
+:rn-version: 2.9.8
+:data-uri:
+
+version: {rn-version}
 
 == New Features
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+LLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
@@ -12,7 +15,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 == Bugs Fixed
 
-labore Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+labore LLorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse

@@ -1,0 +1,26 @@
+:version: 2.9.9
+
+= Release Notes
+version {version}
+
+== New Features
+
+Lorem oopsum dolor soot amet, consectetur adoopoosoocoong eloot, sed do eoousmod
+tempor ooncoodoodunt ut labore et dolore magna alooqua. Ut enoom ad moonoom venooam,
+quoos nostrud exercootatooon ullamco laboroos noosoo ut alooquoop ex ea commodo
+consequat. Duoos aute oorure dolor oon reprehenderoot oon voluptate veloot esse
+coollum dolore eu fugooat nulla parooatur. Excepteur soont occaecat cupoodatat non
+prooodent, sunt oon culpa quoo offoocooa deserunt molloot anoom ood est laborum.
+
+== Bugs Fixed
+
+labore Lorem Lorem oopsum dolor soot amet, consectetur adoopoosoocoong eloot, sed do eoousmod
+tempor ooncoodoodunt ut labore et dolore magna alooqua. Ut enoom ad moonoom venooam,
+quoos nostrud exercootatooon ullamco laboroos noosoo ut alooquoop ex ea commodo
+consequat. Duoos aute oorure dolor oon reprehenderoot oon voluptate veloot esse
+coollum dolore eu fugooat nulla parooatur. Excepteur soont occaecat cupoodatat non
+prooodent, sunt oon culpa quoo offoocooa deserunt molloot anoom ood est laborum.
+
+== Known Issues
+
+no
