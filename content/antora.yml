@@ -1,6 +1,6 @@
 name: intrigue
 version: '3.0.0'
-title: Intrigue Documentation
+title: Intrigue
 start_page: using:using-intrigue-intro.adoc
 nav:
 - modules/ROOT/nav.adoc

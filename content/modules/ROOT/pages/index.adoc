@@ -1,7 +1,25 @@
 = Intrigue
 
-If you find any issues with DDF UI, please submit an https://github.com/codice/ddf/issues[issue].
+[#project-name]
+ddf-ui
 
-For information on contributing to DDF UI see http://codice.org/contributing[Contributing to Codice].
+****
+Intrigue represents the most advanced search interface available with Alliance. It provides metadata search and discovery, resource retrieval, and workspace management with a 3D or optional 2D map visualization.
+****
 
--- The Codice DDF Development Team
+.Latest Release
+****
+[#stable-version]
+Link to latest version
+****
+
+.Latest Builds
+****
+TBD
+****
+
+.News and Events
+****
+[#version-history]
+* *2013-01-01* Initial Release
+****
